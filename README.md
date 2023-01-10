@@ -1,3 +1,3 @@
-# Mortality Global Analysis
+# Global Mortality  Analysis
 
-This notebook is part of a portfolio project whose objective is to show the analysis of mortality data using SQL
+This notebook shows the analysis of mortality data using SQL and tableau
